@@ -45,9 +45,12 @@ const gabagund = {
 ```
 <h2> My GitHub stats  <img src="https://emojis.slackmojis.com/emojis/images/1702960994/82884/c_penguinq.gif?1702960994" width="30"/> </h2>
 
-![gabrielagundiz's Stats](https://github-readme-stats.vercel.app/api?username=gabrielagundiz&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![gabrielagundiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielagundiz&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 ![gabrielagundiz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielagundiz&theme=synthwave&hide_border=true)
+
+![gabrielagundiz's Stats](https://github-readme-stats.vercel.app/api?username=gabrielagundiz&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
+![gabrielagundiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielagundiz&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+
 
 
 <p>NOTE: Neither my commits/contributions nor primary languages ​​indicate my skill level or anything like that. It's just a metric of my work hosted on GitHub based on usage in the repositories. There are many projects that I haven't published on GitHub or are private.</p>
