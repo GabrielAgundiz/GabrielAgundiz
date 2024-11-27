@@ -1,4 +1,4 @@
-<h2> Hi, I'm GabrielAgundiz <img src="https://emojis.slackmojis.com/emojis/images/1697091850/70723/penguinq.gif?1697091850" width="30"/> </h2>
+<h2> Hi, I'm Gabriel Agundiz <img src="https://emojis.slackmojis.com/emojis/images/1697091850/70723/penguinq.gif?1697091850" width="30"/> </h2>
 
 <p> <em> Front End Developer at <a href="https://weblessproject.com"> Webless Project</a> </em> </p>
 
@@ -6,6 +6,12 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://gabrielagundiz.com/)
 ![](https://gabrielagundiz.com)
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx gabrielgundiz
+```
+**👆 This command line tool can be found at [npx gabrielagundiz](https://github.com/GabrielAgundiz/npx_card)**
 
 
 ### <img src="https://media.giphy.com/media/vuPffhfwHawZq/giphy.gif?cid=ecf05e47o8re1jpspk0vsnu6oaxma4dlgu1q67o749ibcdzn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"> A little more about me...  
