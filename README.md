@@ -46,7 +46,7 @@ const gabagund = {
     },
     currentFocus: "I love the frontend, but I'm exploring AI trends",
     funFact: "I can debug faster in the night with a hot chocolate & cookies in hand!",
-    hobbies: ["videogames", "music", "sports"]
+    hobbies: ["videogames", "music", "sports", "travel"]
 };
 ```
 <h2> My GitHub stats  <img src="https://emojis.slackmojis.com/emojis/images/1702960994/82884/c_penguinq.gif?1702960994" width="30"/> </h2>
